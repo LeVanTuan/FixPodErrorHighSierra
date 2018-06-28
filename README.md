@@ -1,4 +1,4 @@
-# FixPodErrorHighSierra
+# Fix Pod Error in macOS High Sierra
 
 When Mac was upgraded to macOS High Seirra from older version.
 
